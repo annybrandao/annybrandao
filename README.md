@@ -1,3 +1,3 @@
 ## Oie, eu sou a Anny!
 - Aprendendo python
-- Estudando cinência de dados pela EFG
+- Estudando ciência de dados pela EFG-Paulo Renato de Sousa
