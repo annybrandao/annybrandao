@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Meu nome e Anny Brandao, tenho 21 anos e resido no entorno de Brasilia. Atualmente, estou cursando Tecnico em Ciencia de Dados pela EFG - Paulo Renato de Souza e Analise de Desenvolvimento de Sistemas pela Cruzeiro do Sul. 
+"Meu nome e Anny Brandao, tenho 21 anos e resido no entorno de Brasilia. Atualmente, estou cursando Tecnico em Ciencia de Dados pela EFG - Paulo Renato de Souza e Analise de Desenvolvimento de Sistemas pela Cruzeiro do Sul."
 
 <p align="left">
     </a>
