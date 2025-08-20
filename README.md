@@ -1,4 +1,5 @@
 # 📊👩🏻‍💻 Anny Brandao
+-- https://www.youtube.com/watch?v=9ygf4hkLVnA&list=PLIFJsmO3-J7exUUYrZVLb-CHfKLTM-oKM (tutorial)
 
 **`Cientista de Dados`**
 Meu nome e Anny Brandao, tenho 21 anos e resido no entorno de Brasilia. Atualmente, estou cursando Tecnico em Ciencia de Dados pela EFG - Paulo Renato de Souza e Analise de Desenvolvimento de Sistemas pela Cruzeiro do Sul.
