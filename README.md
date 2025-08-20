@@ -21,7 +21,7 @@ Meu nome e Anny Brandao, tenho 21 anos e resido no entorno de Brasilia. Atualmen
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://share.google/l8InBMJZdIjbOCKpN">
+    <a>
         <img 
             alt="Localizacao" 
             title="Minha localizacao" 
