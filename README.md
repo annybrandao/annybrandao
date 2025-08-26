@@ -1,4 +1,4 @@
-# 📊👩🏻‍💻 Anny Brandão
+# 📊👩🏻‍💻 Anny Brandão Leite
 
 **`Cientista de Dados`**
 
